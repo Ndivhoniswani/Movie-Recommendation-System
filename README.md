@@ -25,7 +25,7 @@ Collaborative Filtering relies on user preferences to make recommendations. For 
 
 
 ### Data Source
-- genome_scores.csv - a score mapping the strength between movies and tag-related properties. Read more here
+- genome_scores.csv - a score mapping the strength between movies and tag-related properties.
 - genome_tags.csv - user assigned tags for genome-related scores
 - imdb_data.csv - Additional movie metadata scraped from IMDB using the links.csv file.
 - links.csv - File providing a mapping between a MovieLens ID and associated IMDB and TMDB IDs.
@@ -38,6 +38,19 @@ Collaborative Filtering relies on user preferences to make recommendations. For 
 
 
 ### Tools
+- Python
+- Recommender System: Collaborative Filtering
+- Jupyter Notebook
 
 
 ### Building the Recommendation System
+
+
+### Results
+
+
+### Recommendation
+
+
+### Usage
+
