@@ -1,4 +1,5 @@
 # Movie-Recommendation-System
+![Power BI](https://github.com/Ndivhoniswani/Movie-Recommendation-System/blob/main/ShowMax%20Image.png)
 
 In the vast world of movies, finding the perfect film to watch can be a daunting task. This is where recommendation systems come into play, making the process much smoother and enjoyable for users.
 
@@ -34,3 +35,9 @@ Collaborative Filtering relies on user preferences to make recommendations. For 
 - train.csv - The training split of the dataset. Contains user and movie IDs with associated rating data.
 
 **Note: Note that the dataset will not be available here, due to copywrite issues.
+
+
+### Tools
+
+
+### Building the Recommendation System
