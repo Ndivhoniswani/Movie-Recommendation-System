@@ -46,8 +46,7 @@ Collaborative Filtering relies on user preferences to make recommendations. For 
 ### Building the Recommendation System
 To implement Collaborative Filtering, we’ll use a dataset of movies, train, test and their features. Popular Python libraries like Pandas, Scikit-learn and the powerful Suprice library will be employed to preprocess the data and build a recommendation model. The key steps include:
 
-1. EDA: View merged dataset
-   ![Power BI](https://github.com/Ndivhoniswani/Movie-Recommendation-System/blob/main/Missing%20Values.png)
+1. EDA: View merged dataset and the are no missing values and the data types are in the correct order.
 2. Data Preprocessing: Cleaning and organizing the movie dataset.
    ![Power BI](https://github.com/Ndivhoniswani/Movie-Recommendation-System/blob/main/Preprocessing%20data.png)
 3. Building a Model with Collaborative Filtering.
