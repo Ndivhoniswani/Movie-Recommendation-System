@@ -18,7 +18,7 @@ This dataset consists of several million 5-star ratings obtained from users of t
 For this Predict, we'll be using a special version of the MovieLens dataset which has enriched with additional data, and resampled for fair evaluation purposes.
 
 ### Understanding Collaborative Filtering!
-![Power BI](https://github.com/Ndivhoniswani/Movie-Recommendation-System/blob/main/Collaborative%20Filtering%20Image!.jpg)
+![Power BI](https://github.com/Ndivhoniswani/Movie-Recommendation-System/blob/main/Collaborative%20Filtering%20Image.png)
 
 
 ### Data Source
