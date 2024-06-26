@@ -20,6 +20,8 @@ For this Predict, we'll be using a special version of the MovieLens dataset whic
 ### Understanding Collaborative Filtering!
 ![Power BI](https://github.com/Ndivhoniswani/Movie-Recommendation-System/blob/main/Collaborative%20Filtering%20Image.png)
 
+Collaborative Filtering relies on user preferences to make recommendations. For movies, it uses data from user ratings and behaviors. The system identifies similar users and suggests movies that those users liked, creating personalized recommendations based on shared interests.
+
 
 ### Data Source
 - Train.csv
