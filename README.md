@@ -63,7 +63,13 @@ We used the powerful Surprise Library to build a collaborative filter based on s
 ![Power BI](https://github.com/Ndivhoniswani/Movie-Recommendation-System/blob/main/Hackathon%20Score.png)
 
 ### Recommendation
+By implementing these strategies, a platform like Showmax can enhance its collaborative filtering system, leading to more accurate and engaing recommendations that help reduce customer leaving the streaming service:
 
+1. Enhance Data Collection and Integration
+2. Include Hybrid Collaborative Filtering
+3. Addressing Cold-Start and Sparsity Issues
+4.  User Segmentation and Personalization
+5.  Real-Time and Scalable Systems
 
 ### Usage
 
