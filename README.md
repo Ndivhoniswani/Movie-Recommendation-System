@@ -72,4 +72,5 @@ By implementing these strategies, a platform like Showmax can enhance its collab
 5.  Real-Time and Scalable Systems
 
 ### Usage
-
+1. Run the ipynb file: Recommender system  - Final.ipynb.
+2. Follow the prompts to explore collaborative filtering code.
