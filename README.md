@@ -56,6 +56,7 @@ To implement Collaborative Filtering, we’ll use a dataset of movies, train, te
 
 ### Results
 We used the powerful Surprise Library to build a collaborative filter based on single value decomposition. The RMSE obtained was less than 2, see below and the engine gave estimated ratings for a given user and movie.
+
 ![Power BI](https://github.com/Ndivhoniswani/Movie-Recommendation-System/blob/main/Hackathon%20Score.png)
 
 ### Recommendation
