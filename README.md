@@ -48,10 +48,13 @@ To implement Collaborative Filtering, we’ll use a dataset of movies, train, te
 
 1. EDA: View merged dataset and the are no missing values and the data types are in the correct order.
 2. Data Preprocessing: Cleaning and organizing the movie dataset.
+   
    ![Power BI](https://github.com/Ndivhoniswani/Movie-Recommendation-System/blob/main/Preprocessing%20data.png)
 3. Building a Model with Collaborative Filtering.
+   
    ![Power BI](https://github.com/Ndivhoniswani/Movie-Recommendation-System/blob/main/Model.png)
 4. Predictions on the test dataset
+   
    ![Power BI](https://github.com/Ndivhoniswani/Movie-Recommendation-System/blob/main/Predict%20on%20test%20dataset.png)
 
 ### Results
